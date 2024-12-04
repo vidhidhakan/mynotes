@@ -6,4 +6,7 @@ DATA ENGINEERING ROADMAP
 4. pyspark
 5. linux commands
 6. big data
-7. cloud
+7. cloud(azure)
+8. data warehouse
+9. pandas
+   
